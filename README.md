@@ -1,6 +1,6 @@
 # ListaDeMercado
 Faça sua própria lista do mercado de forma a ter controle e observar gastos conforme os mês usando dashboard
-
+https://github.com/Matheus-Pontes/ListaDeMercado/blob/main/Prot%C3%B3tipo%20de%20App%20de%20Lista%20de%20Mercado%20em%20Portugu%C3%AAs.png
 =================
 ## 1. Fundação do projeto
 Preparar o ambiente e definir a base técnica.
